@@ -1,0 +1,28 @@
+/* 992px*/
+#m1 {
+   
+  
+    box-sizing: border-box;
+}
+#m2 {
+    
+   =
+    box-sizing: border-box;
+ 
+}
+#m3 {
+    
+   
+    box-sizing: border-box;
+}
+#ma {   
+        display: flex;
+         
+}
+#com {
+    display: flex;
+        flex: 0 0 33%;
+        flex-direction: row;
+      justify-content:space-around;
+        align-items:end;
+}
